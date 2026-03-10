@@ -4,11 +4,11 @@
 </div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.08774)
+[![Supplementary](https://img.shields.io/badge/Supplementary-PDF-1f6feb.svg)](./docs/paper.pdf)
 
 > **JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**, AAAI 2025.  
 > Taein Son*, Soo won Seo*, Jisong Kim, Seok Hwan Lee, Jun Won Choi†  
 > *: Equal Contribution,  †: Corresponding Author
-
 
 ## News
 
